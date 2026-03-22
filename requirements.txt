@@ -5,7 +5,7 @@ scikit-learn==1.5.2
 matplotlib==3.10.6
 
 # Deep Learning
-tensorflow==2.15.0
+tensorflow==2.21.0
 keras==3.13.2
 
 # MLflow for Model Tracking and Registry
