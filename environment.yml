@@ -15,6 +15,9 @@ dependencies:
   - matplotlib=3.10.6
   - scikit-learn=1.5.2
 
+  # Deep Learning
+  - tensorflow=2.15.0
+
   # Jupyter para desenvolvimento
   - jupyter
   - jupyterlab
